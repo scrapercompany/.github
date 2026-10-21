@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: API support (failing requests, data, billing)
+    url: mailto:support@scrapercompany.com
+    about: Email support with the request_id from the API response.
+  - name: Service status
+    url: https://status.scrapercompany.com
+    about: Check for ongoing incidents.
+  - name: Documentation
+    url: https://scrapercompany.com/docs
+    about: Endpoints, parameters and examples.
